@@ -2,6 +2,10 @@
   "name": "pluralsight-js-dev-env",
   "version": "1.0.0",
   "description": "JavaScript development environment Pluralsight course by Cory House",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obryckim/pluralsight-js-dev-env"
+  },
   "scripts": {
     "prestart": "node buildScripts/startMessage.js",
     "start": "node buildScripts/srcServer.js"
