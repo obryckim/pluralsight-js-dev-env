@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 43,
+      "firstName": "Ryan",
+      "lastName": "Kohler",
+      "email": "Nyah0@yahoo.com"
+    },
+    {
+      "id": 27,
+      "firstName": "Miles",
+      "lastName": "Ward",
+      "email": "Scarlett.Anderson84@gmail.com"
+    },
+    {
+      "id": 3,
+      "firstName": "Jordyn",
+      "lastName": "Schuster",
+      "email": "Luisa39@hotmail.com"
+    },
+    {
+      "id": 6,
+      "firstName": "Geovany",
+      "lastName": "Dooley",
+      "email": "Doyle17@gmail.com"
+    }
+  ]
+}
